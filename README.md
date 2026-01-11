@@ -42,9 +42,9 @@ Figma (for wireframe design)
 
 PDF Export (for documentation and sharing)
 
-🔗 Figma Design Link
+🔗 Figma Prototype Design Link
 
-https://www.figma.com/design/MQmLstVHl50HvsJDkeG5Vh/CodeAlpha_Low_Fidelity_Royal-Elegance?node-id=0-1&t=NtAL2JvXgLOP6UOC-1
+https://www.figma.com/proto/MQmLstVHl50HvsJDkeG5Vh/CodeAlpha_Low_Fidelity_Royal-Elegance?node-id=0-1&t=PWdgzj49ne6wEt7X-1
 
 👩‍💻 Developed By
 
